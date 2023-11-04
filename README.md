@@ -1,3 +1,12 @@
+Lors d'un SAE, nous avons eu pour objectif de coder un jeu de plateau nommé Les aventuriers du Rails sous format web.
+
+Voici le résultat.
+
+Si vous souhaitez jouez, je vous invite a clone le projet depuis votre IDE. Vous devez ensuite ouvrir le bon fichier web/index.html et lancez le programme src/main/java/fr.umontpellier.fr/gui/GameServer.
+
+Le plus dur est fait il ne reste plus qu'a vous profitez 
+
+
 ![](ressources/logo.jpeg)
 
 # Projet - _Aventuriers du Rail Autour du Monde_
